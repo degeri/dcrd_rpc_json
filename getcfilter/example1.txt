@@ -1,0 +1,1 @@
+{"jsonrpc":"1.0","method":"getcfilter","params":["0000002547254495bd1ee02069900d75bae3e1a2351f957c304595a8f23e4a27","extended"],"id":1}

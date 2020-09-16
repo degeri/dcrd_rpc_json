@@ -1,0 +1,1 @@
+{"jsonrpc":"1.0","method":"getstakeversions","params":["000000104cadc4b2de25b97c49e11c2ac890e89b250543f4d9a692cb5be766b9",9],"id":1}

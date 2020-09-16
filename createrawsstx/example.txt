@@ -1,0 +1,1 @@
+{"jsonrpc":"1.0","method":"createrawsstx","params":[[{"txid":"e02f03a25a57afdd402818fe5b13985a0731502ad8a8c93d1874900e84d3330d","vout":0,"tree":0,"amt":100000000}],{"Tsj4SMgCbuakbatS92U2HfzFdUfb1NLXWW6":23},[{"addr":"TsniE4FAaXBmomKtvZpdp78yyAoKXH8yvHi","commitamt":100000000,"changeaddr":"TsniE4FAaXBmomKtvZpdp78yyAoKXH8yvHi","changeamt":10000000}]],"id":1}

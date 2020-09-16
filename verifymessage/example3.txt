@@ -1,0 +1,1 @@
+{"jsonrpc":"1.0","method":"verifymessage","params":["TsdbYVDoh3JsyP6oEg2aHVoTjsFuHzUgGKv","HxzZggzHMljSWpKHnw1Dow84KGWvTRBCG2JqBM5W4Q7iePW0dirZXCggSeXHVQ26D0MbDFffi3yw+x2Z5nQ94gg=","verifymessage test"],"id":1}

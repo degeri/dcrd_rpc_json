@@ -1,0 +1,1 @@
+{"jsonrpc":"1.0","method":"estimatesmartfee","params":[3],"id":1}

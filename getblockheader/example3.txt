@@ -1,0 +1,1 @@
+{"jsonrpc":"1.0","method":"getblockheader","params":["0000000032364845f580da9ee47dfb744d1c634e83f1c3852c127f341fce6754",false],"id":1}
