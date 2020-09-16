@@ -1,5 +1,5 @@
 # DCRD JSON RPC Requests
-An almost complete list/examples of DCRD requests.
+An almost complete list/examples of DCRD HTTP RPC requests.
 
 Made with testnet3
 
