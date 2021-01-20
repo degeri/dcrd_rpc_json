@@ -1,0 +1,1 @@
+{"jsonrpc":"1.0","method":"gettreasuryspendvotes","params":["",["47de5efe98f073b6f33fbffb1743bacb850fbd8be5723195a744086061f5f0f2"]],"id":1}

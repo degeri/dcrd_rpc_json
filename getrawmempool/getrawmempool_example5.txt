@@ -1,0 +1,1 @@
+"jsonrpc":"1.0","method":"getrawmempool","params":[true,"tickets"],"id":1}
