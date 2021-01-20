@@ -1,0 +1,1 @@
+{"jsonrpc":"1.0","method":"invalidateblock","params":["000000763623d68e195465e0d2bdf0ee2d4aaf81e157e11e91128966c3258dce"],"id":1}

@@ -1,0 +1,1 @@
+{"jsonrpc":"1.0","method":"gettreasurybalance","params":["0000005c9f9fb4e2e270da3f406c9e08e2ad39bba2b46a6fc93adf840b3f0bb9"],"id":1}
